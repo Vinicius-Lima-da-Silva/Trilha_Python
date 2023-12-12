@@ -1,4 +1,4 @@
 # Grupo Trilha_Python
 
-### Vinicius Lima da Silva 
+### Nome: Vinicius Lima da Silva ; email: vini_lima98@outlook.com
 ###
